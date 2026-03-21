@@ -1,6 +1,6 @@
 # 🛒 Brazilian E-Commerce by Olist — 데이터 분석 & 배송 지연 예측 프로젝트
 
-브라질 전자상거래 플랫폼 Olist의 실제 거래 데이터를 활용하여 탐색적 데이터 분석(EDA)을 수행하고, 머신러닝을 통해 배송 지연 여부를 예측하는 데이터 분석 프로젝트입니다.
+브라질 전자상거래 플랫폼 Olist의 실제 거래 데이터를 활용하여 탐색적 데이터 분석(EDA) 및 시각화를 수행하고, 머신러닝을 통해 배송 지연 여부를 예측하는 end-to-end 데이터 분석 프로젝트입니다.
 
 <br />
 
@@ -70,7 +70,7 @@
 - 2018년 3월에 배송 지연이 가장 많이 발생
 - 화요일에 주문량과 지연 건수가 가장 많아 주 초반 물류 부하 집중
 
-<img width="1274" height="703" alt="image" src="https://github.com/user-attachments/assets/61ade9ae-35ac-4bf5-88df-d8d7929e5e6e" />
+<img width="1274" height="703" alt="image" src="results/figures/order_delay_image.png" />
 
 ## 머신러닝 모델링 (Predictive Modeling)
 
@@ -91,3 +91,10 @@
 | 시간      | 화요일·주 초반에 물류 운영 자원 집중 필요                          |
 | 지역      | SP 중심의 물류 허브 최적화 및 지연 루트 모니터링 필요              |
 | 예측      | 상품 카테고리, 가격, 판매자/고객 지역이 배송 지연의 주요 예측 변수 |
+
+<br />
+
+## 👥 Team
+
+- 홍길동 (@username1)
+- 김철수 (@username2)
