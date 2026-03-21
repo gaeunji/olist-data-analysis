@@ -70,7 +70,7 @@
 - 2018년 3월에 배송 지연이 가장 많이 발생
 - 화요일에 주문량과 지연 건수가 가장 많아 주 초반 물류 부하 집중
 
-<img width="1274" height="703" alt="image" src="results/figures/order_delay_image.png" />
+<img width="1074" height="603" alt="image" src="results/figures/order_delay_image.png" />
 
 ## 머신러닝 모델링 (Predictive Modeling)
 
