@@ -41,7 +41,8 @@
 
 ## 🚀 Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NtxazEaJbC-KfJV5YVfxUDZI3u5ouuGp#scrollTo=c-9efYoFpW_7)
+- [EDA Notebook](https://colab.research.google.com/drive/1NtxazEaJbC-KfJV5YVfxUDZI3u5ouuGp?usp=sharing)
+- [Modeling Notebook](https://colab.research.google.com/drive/1osr5Wpcb7yzx4sWzYsHRFS13on_notTy?usp=sharing)
 
 <br />
 
