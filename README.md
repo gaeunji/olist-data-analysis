@@ -4,7 +4,7 @@
 
 <br />
 
-## 📌 비즈니스 문제
+## 📍 Business Problem
 
 - 배송이 늦어질수록 고객 만족도와 리뷰 점수가 하락합니다.
 - 불만족 고객은 재구매를 포기하고 이탈할 가능성이 높아집니다.
@@ -12,7 +12,7 @@
 
 <br />
 
-## 📂 데이터셋
+## 📂 Datasets
 
 [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -30,7 +30,7 @@
 
 <br />
 
-## 🔄 분석 흐름
+## 🔄 Workflow
 
 ```
 데이터 로드 → 데이터 정제 → 피처 엔지니어링 → 데이터셋 병합
@@ -46,7 +46,7 @@
 
 <br />
 
-## 탐색적 데이터 분석 (EDA)
+## 🔎 Exploratory Data Anaylsis
 
 #### 1. 고객 분석
 
@@ -70,9 +70,9 @@
 - 2018년 3월에 배송 지연이 가장 많이 발생
 - 화요일에 주문량과 지연 건수가 가장 많아 주 초반 물류 부하 집중
 
-<img width="1074" height="603" alt="image" src="results/figures/order_delay_image.png" />
+<br />
 
-## 머신러닝 모델링 (Predictive Modeling)
+## 🤖 Machine Learning
 
 배송 지연 여부(`is_late`)를 이진 분류로 예측합니다.
 
