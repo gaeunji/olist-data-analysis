@@ -96,5 +96,4 @@
 
 ## 👥 Team
 
-- 홍길동 (@username1)
-- 김철수 (@username2)
+- 조윤수 (@yoonsoo2002)
